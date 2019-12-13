@@ -1,0 +1,2 @@
+# shakespeare
+Shakespeare discord bot
